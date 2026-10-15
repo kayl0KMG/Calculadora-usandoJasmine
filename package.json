@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-jasm-km",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jasmine": "^7.0.0"
+  }
+}
